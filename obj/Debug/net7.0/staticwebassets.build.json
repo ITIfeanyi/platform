@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LVfkLhrgk2RR+Rc/DVr7x1qiXY6ptZsclEhGJicczQs=",
+  "Source": "redisAPI",
+  "BasePath": "_content/redisAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
